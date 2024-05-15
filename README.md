@@ -9,13 +9,16 @@ The data cleaning process involved several steps to ensure accuracy and consiste
    - Removed duplicates from the dataset.
    -  Handled missing values by either imputing values or excluding incomplete records.
    - Standardized formats for consistency in data presentation.
+
 ![The Final Dashboard](https://github.com/vanessa-namutebi/bike-buyers-analysis/blob/main/Screenshot%20(164).png?raw=true)
 
   ### Data Analysis:
 Pivot tables were utilized to analyze the cleaned dataset and derive meaningful insights:
 
 - Created pivot tables to segment data based on demographics and purchase status.
+  
   ![The Final Dashboard](https://github.com/vanessa-namutebi/bike-buyers-analysis/blob/main/Screenshot%20(166).png?raw=true)
+  
 - Developed a bike sales dashboard showcasing key metrics:
   - Average income per purchase.
   - Count of purchased bikes.
@@ -27,6 +30,7 @@ The bike sales dashboard provides a comprehensive view of key metrics and trends
 - Average Income per Purchase: Visualizes the average income of customers who made a purchase, helping to understand the purchasing power of different demographics.
 - Count of Purchased Bikes: Displays the number of bikes purchased, enabling quick assessment of sales performance.
 - Customer Commute Analysis: Analyzes customer commute patterns, highlighting potential target areas for marketing campaigns.
+  
 ![The Final Dashboard](https://github.com/vanessa-namutebi/bike-buyers-analysis/blob/main/Screenshot%20(167).png?raw=true)
 
 ### Key Insights:
