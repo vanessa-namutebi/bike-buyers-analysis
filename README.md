@@ -25,6 +25,7 @@ The bike sales dashboard provides a comprehensive view of key metrics and trends
 - Average Income per Purchase: Visualizes the average income of customers who made a purchase, helping to understand the purchasing power of different demographics.
 - Count of Purchased Bikes: Displays the number of bikes purchased, enabling quick assessment of sales performance.
 - Customer Commute Analysis: Analyzes customer commute patterns, highlighting potential target areas for marketing campaigns.
+![The Final Dashboard](https://github.com/vanessa-namutebi/bike-buyers-analysis/blob/main/Screenshot%20(167).png?raw=true)
 
 ### Key Insights:
 Through data analysis, the following key insights were gained:
