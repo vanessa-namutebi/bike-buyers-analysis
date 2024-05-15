@@ -14,6 +14,7 @@ The data cleaning process involved several steps to ensure accuracy and consiste
 Pivot tables were utilized to analyze the cleaned dataset and derive meaningful insights:
 
 - Created pivot tables to segment data based on demographics and purchase status.
+  ![The Final Dashboard](https://github.com/vanessa-namutebi/bike-buyers-analysis/blob/main/Screenshot%20(166).png?raw=true)
 - Developed a bike sales dashboard showcasing key metrics:
   - Average income per purchase.
   - Count of purchased bikes.
